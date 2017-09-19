@@ -7,6 +7,7 @@
     width: 10px;
     height: 10px;
     background-color: white;
+   
 }
 .redBlock {
     /* border-style: hidden;*/
@@ -17,4 +18,9 @@
     width: 10px;
     height: 10px;
     background-color: red;
+
 }
+#pyramid {
+  font-family: "Courier New", monospace;
+  line-height: 0;
+   }
